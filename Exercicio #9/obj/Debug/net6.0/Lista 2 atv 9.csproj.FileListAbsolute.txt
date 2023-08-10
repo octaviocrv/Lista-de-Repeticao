@@ -1,0 +1,15 @@
+C:\Users\tsoli\OneDrive\Área de Trabalho\lista faculdade\Lista 2 atv 9\Lista 2 atv 9\bin\Debug\net6.0\Lista 2 atv 9.exe
+C:\Users\tsoli\OneDrive\Área de Trabalho\lista faculdade\Lista 2 atv 9\Lista 2 atv 9\bin\Debug\net6.0\Lista 2 atv 9.deps.json
+C:\Users\tsoli\OneDrive\Área de Trabalho\lista faculdade\Lista 2 atv 9\Lista 2 atv 9\bin\Debug\net6.0\Lista 2 atv 9.runtimeconfig.json
+C:\Users\tsoli\OneDrive\Área de Trabalho\lista faculdade\Lista 2 atv 9\Lista 2 atv 9\bin\Debug\net6.0\Lista 2 atv 9.dll
+C:\Users\tsoli\OneDrive\Área de Trabalho\lista faculdade\Lista 2 atv 9\Lista 2 atv 9\bin\Debug\net6.0\Lista 2 atv 9.pdb
+C:\Users\tsoli\OneDrive\Área de Trabalho\lista faculdade\Lista 2 atv 9\Lista 2 atv 9\obj\Debug\net6.0\Lista 2 atv 9.csproj.AssemblyReference.cache
+C:\Users\tsoli\OneDrive\Área de Trabalho\lista faculdade\Lista 2 atv 9\Lista 2 atv 9\obj\Debug\net6.0\Lista 2 atv 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsoli\OneDrive\Área de Trabalho\lista faculdade\Lista 2 atv 9\Lista 2 atv 9\obj\Debug\net6.0\Lista 2 atv 9.AssemblyInfoInputs.cache
+C:\Users\tsoli\OneDrive\Área de Trabalho\lista faculdade\Lista 2 atv 9\Lista 2 atv 9\obj\Debug\net6.0\Lista 2 atv 9.AssemblyInfo.cs
+C:\Users\tsoli\OneDrive\Área de Trabalho\lista faculdade\Lista 2 atv 9\Lista 2 atv 9\obj\Debug\net6.0\Lista 2 atv 9.csproj.CoreCompileInputs.cache
+C:\Users\tsoli\OneDrive\Área de Trabalho\lista faculdade\Lista 2 atv 9\Lista 2 atv 9\obj\Debug\net6.0\Lista 2 atv 9.dll
+C:\Users\tsoli\OneDrive\Área de Trabalho\lista faculdade\Lista 2 atv 9\Lista 2 atv 9\obj\Debug\net6.0\refint\Lista 2 atv 9.dll
+C:\Users\tsoli\OneDrive\Área de Trabalho\lista faculdade\Lista 2 atv 9\Lista 2 atv 9\obj\Debug\net6.0\Lista 2 atv 9.pdb
+C:\Users\tsoli\OneDrive\Área de Trabalho\lista faculdade\Lista 2 atv 9\Lista 2 atv 9\obj\Debug\net6.0\Lista 2 atv 9.genruntimeconfig.cache
+C:\Users\tsoli\OneDrive\Área de Trabalho\lista faculdade\Lista 2 atv 9\Lista 2 atv 9\obj\Debug\net6.0\ref\Lista 2 atv 9.dll

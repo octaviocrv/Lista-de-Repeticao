@@ -1,0 +1,45 @@
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios Aleatorios\Exercicio For #1\bin\Debug\net6.0\Exercicio For #1.exe
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios Aleatorios\Exercicio For #1\bin\Debug\net6.0\Exercicio For #1.deps.json
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios Aleatorios\Exercicio For #1\bin\Debug\net6.0\Exercicio For #1.runtimeconfig.json
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios Aleatorios\Exercicio For #1\bin\Debug\net6.0\Exercicio For #1.dll
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios Aleatorios\Exercicio For #1\bin\Debug\net6.0\Exercicio For #1.pdb
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios Aleatorios\Exercicio For #1\obj\Debug\net6.0\Exercicio For #1.csproj.AssemblyReference.cache
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios Aleatorios\Exercicio For #1\obj\Debug\net6.0\Exercicio For #1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios Aleatorios\Exercicio For #1\obj\Debug\net6.0\Exercicio For #1.AssemblyInfoInputs.cache
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios Aleatorios\Exercicio For #1\obj\Debug\net6.0\Exercicio For #1.AssemblyInfo.cs
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios Aleatorios\Exercicio For #1\obj\Debug\net6.0\Exercicio For #1.csproj.CoreCompileInputs.cache
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios Aleatorios\Exercicio For #1\obj\Debug\net6.0\Exercicio For #1.dll
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios Aleatorios\Exercicio For #1\obj\Debug\net6.0\refint\Exercicio For #1.dll
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios Aleatorios\Exercicio For #1\obj\Debug\net6.0\Exercicio For #1.pdb
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios Aleatorios\Exercicio For #1\obj\Debug\net6.0\Exercicio For #1.genruntimeconfig.cache
+C:\Users\sc33072\Desktop\Octavio\PUC\Exercicios Aleatorios\Exercicio For #1\obj\Debug\net6.0\ref\Exercicio For #1.dll
+C:\Users\sc33072\Desktop\Octavio\PUC\Exericicio ATP_Lista 02 Repetição\Exercicio While #1 Valores Inteiros\bin\Debug\net6.0\Exercicio For #1.exe
+C:\Users\sc33072\Desktop\Octavio\PUC\Exericicio ATP_Lista 02 Repetição\Exercicio While #1 Valores Inteiros\bin\Debug\net6.0\Exercicio For #1.deps.json
+C:\Users\sc33072\Desktop\Octavio\PUC\Exericicio ATP_Lista 02 Repetição\Exercicio While #1 Valores Inteiros\bin\Debug\net6.0\Exercicio For #1.runtimeconfig.json
+C:\Users\sc33072\Desktop\Octavio\PUC\Exericicio ATP_Lista 02 Repetição\Exercicio While #1 Valores Inteiros\bin\Debug\net6.0\Exercicio For #1.dll
+C:\Users\sc33072\Desktop\Octavio\PUC\Exericicio ATP_Lista 02 Repetição\Exercicio While #1 Valores Inteiros\bin\Debug\net6.0\Exercicio For #1.pdb
+C:\Users\sc33072\Desktop\Octavio\PUC\Exericicio ATP_Lista 02 Repetição\Exercicio While #1 Valores Inteiros\obj\Debug\net6.0\Exercicio For #1.csproj.AssemblyReference.cache
+C:\Users\sc33072\Desktop\Octavio\PUC\Exericicio ATP_Lista 02 Repetição\Exercicio While #1 Valores Inteiros\obj\Debug\net6.0\Exercicio For #1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sc33072\Desktop\Octavio\PUC\Exericicio ATP_Lista 02 Repetição\Exercicio While #1 Valores Inteiros\obj\Debug\net6.0\Exercicio For #1.AssemblyInfoInputs.cache
+C:\Users\sc33072\Desktop\Octavio\PUC\Exericicio ATP_Lista 02 Repetição\Exercicio While #1 Valores Inteiros\obj\Debug\net6.0\Exercicio For #1.AssemblyInfo.cs
+C:\Users\sc33072\Desktop\Octavio\PUC\Exericicio ATP_Lista 02 Repetição\Exercicio While #1 Valores Inteiros\obj\Debug\net6.0\Exercicio For #1.csproj.CoreCompileInputs.cache
+C:\Users\sc33072\Desktop\Octavio\PUC\Exericicio ATP_Lista 02 Repetição\Exercicio While #1 Valores Inteiros\obj\Debug\net6.0\Exercicio For #1.dll
+C:\Users\sc33072\Desktop\Octavio\PUC\Exericicio ATP_Lista 02 Repetição\Exercicio While #1 Valores Inteiros\obj\Debug\net6.0\refint\Exercicio For #1.dll
+C:\Users\sc33072\Desktop\Octavio\PUC\Exericicio ATP_Lista 02 Repetição\Exercicio While #1 Valores Inteiros\obj\Debug\net6.0\Exercicio For #1.pdb
+C:\Users\sc33072\Desktop\Octavio\PUC\Exericicio ATP_Lista 02 Repetição\Exercicio While #1 Valores Inteiros\obj\Debug\net6.0\Exercicio For #1.genruntimeconfig.cache
+C:\Users\sc33072\Desktop\Octavio\PUC\Exericicio ATP_Lista 02 Repetição\Exercicio While #1 Valores Inteiros\obj\Debug\net6.0\ref\Exercicio For #1.dll
+C:\Users\sc33072\Desktop\Octavio\PUC\Algotitmos #1\Exericicio ATP_Lista 02 Repetição\Exercicio #1\bin\Debug\net6.0\Exercicio For #1.exe
+C:\Users\sc33072\Desktop\Octavio\PUC\Algotitmos #1\Exericicio ATP_Lista 02 Repetição\Exercicio #1\bin\Debug\net6.0\Exercicio For #1.deps.json
+C:\Users\sc33072\Desktop\Octavio\PUC\Algotitmos #1\Exericicio ATP_Lista 02 Repetição\Exercicio #1\bin\Debug\net6.0\Exercicio For #1.runtimeconfig.json
+C:\Users\sc33072\Desktop\Octavio\PUC\Algotitmos #1\Exericicio ATP_Lista 02 Repetição\Exercicio #1\bin\Debug\net6.0\Exercicio For #1.dll
+C:\Users\sc33072\Desktop\Octavio\PUC\Algotitmos #1\Exericicio ATP_Lista 02 Repetição\Exercicio #1\bin\Debug\net6.0\Exercicio For #1.pdb
+C:\Users\sc33072\Desktop\Octavio\PUC\Algotitmos #1\Exericicio ATP_Lista 02 Repetição\Exercicio #1\obj\Debug\net6.0\Exercicio For #1.csproj.AssemblyReference.cache
+C:\Users\sc33072\Desktop\Octavio\PUC\Algotitmos #1\Exericicio ATP_Lista 02 Repetição\Exercicio #1\obj\Debug\net6.0\Exercicio For #1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sc33072\Desktop\Octavio\PUC\Algotitmos #1\Exericicio ATP_Lista 02 Repetição\Exercicio #1\obj\Debug\net6.0\Exercicio For #1.AssemblyInfoInputs.cache
+C:\Users\sc33072\Desktop\Octavio\PUC\Algotitmos #1\Exericicio ATP_Lista 02 Repetição\Exercicio #1\obj\Debug\net6.0\Exercicio For #1.AssemblyInfo.cs
+C:\Users\sc33072\Desktop\Octavio\PUC\Algotitmos #1\Exericicio ATP_Lista 02 Repetição\Exercicio #1\obj\Debug\net6.0\Exercicio For #1.csproj.CoreCompileInputs.cache
+C:\Users\sc33072\Desktop\Octavio\PUC\Algotitmos #1\Exericicio ATP_Lista 02 Repetição\Exercicio #1\obj\Debug\net6.0\Exercicio For #1.dll
+C:\Users\sc33072\Desktop\Octavio\PUC\Algotitmos #1\Exericicio ATP_Lista 02 Repetição\Exercicio #1\obj\Debug\net6.0\refint\Exercicio For #1.dll
+C:\Users\sc33072\Desktop\Octavio\PUC\Algotitmos #1\Exericicio ATP_Lista 02 Repetição\Exercicio #1\obj\Debug\net6.0\Exercicio For #1.pdb
+C:\Users\sc33072\Desktop\Octavio\PUC\Algotitmos #1\Exericicio ATP_Lista 02 Repetição\Exercicio #1\obj\Debug\net6.0\Exercicio For #1.genruntimeconfig.cache
+C:\Users\sc33072\Desktop\Octavio\PUC\Algotitmos #1\Exericicio ATP_Lista 02 Repetição\Exercicio #1\obj\Debug\net6.0\ref\Exercicio For #1.dll
